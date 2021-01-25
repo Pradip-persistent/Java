@@ -1,0 +1,14 @@
+package com.persistent.demos;
+
+public class Shape {
+	double calArea() {
+		return 0.0;
+	}
+}
+
+class Circle extends Shape{
+	int redius;
+	public Circle(int redius) {
+		this.redius=redius;
+	}
+}

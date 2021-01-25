@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="PermutationCombination"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.persistent.app.Greeter"/>
+    <fullyQualifiedTypeName name="com.persistent.app.Advisor"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.persistent.demos.Circle"/>
+    <fullyQualifiedTypeName name="com.persistent.demos.Shape"/>
+    <fullyQualifiedTypeName name="com.persistent.demos.Rectangle"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.psl.objectDemos.Student"/>
+</qualifiedTypeNameHistroy>

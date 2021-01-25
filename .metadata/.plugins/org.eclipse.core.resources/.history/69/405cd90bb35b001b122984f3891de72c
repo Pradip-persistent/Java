@@ -1,0 +1,11 @@
+package com.persistent.demos;
+
+public class Shape {
+	double calArea() {
+		return 0.0;
+	}
+}
+
+class Circle extends Shape{
+	
+}

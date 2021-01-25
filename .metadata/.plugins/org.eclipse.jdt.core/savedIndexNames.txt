@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\pradi\persistent\Core_Java\.metadata\.plugins\org.eclipse.jdt.core
+3398998147.index

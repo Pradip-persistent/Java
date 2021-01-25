@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="PermutationCombination"><rhs name\="PermutationCombination"/></lhs><lhs name\="com.persistent.app.Greeter"><rhs name\="com.persistent.app.Greeter"/></lhs><lhs name\="com.persistent.app.Advisor"><rhs name\="com.persistent.app.Advisor"/></lhs><lhs name\="com.psl.objectDemos.Student"><rhs name\="com.psl.objectDemos.Student"/></lhs></history>
+content_assist_number_of_computers=22
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
