@@ -1,0 +1,37 @@
+package com.psl.filedemo;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.RandomAccessFile;
+
+public class AppendData {
+	public static void main(String args[]) {
+		File file=new File("data.txt");
+		try {
+			RandomAccessFile rFile = new RandomAccessFile(file, "rw");
+			
+			System.out.println(rFile.getFilePointer());
+			rFile.seek(file.length());
+			rFile.writeBytes("Pradip is appendig data");
+			rFile.close();
+			FileReader reader=new FileReader(file);
+			BufferedReader r=new BufferedReader(reader);
+			String str=null;
+			while((str=r.readLine())!=null) {
+				System.out.println(str);
+			}
+			r.close();
+			reader.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+				
+	}
+}
