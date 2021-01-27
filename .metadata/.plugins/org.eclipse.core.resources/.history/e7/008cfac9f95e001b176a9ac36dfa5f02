@@ -1,0 +1,23 @@
+package com.psl.filedemo;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class SequenceInputStream {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			FileInputStream fin1= new FileInputStream("data1.txt");
+			FileInputStream fin2=new FileInputStream("data2.txt");
+			SequenceInputStream seqStream= new SequenceInputStream(fin1,fin2);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+
+	}
+
+}

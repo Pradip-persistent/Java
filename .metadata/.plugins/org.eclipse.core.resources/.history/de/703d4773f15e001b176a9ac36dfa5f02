@@ -1,0 +1,7 @@
+package com.psl.exceptionDemos;
+
+public class CheckedUncheckeddemos {
+	public static void Main(String args[]) {
+		
+	}
+}

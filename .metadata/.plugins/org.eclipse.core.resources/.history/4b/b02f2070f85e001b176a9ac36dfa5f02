@@ -1,0 +1,12 @@
+package com.psl.filedemo;
+
+import java.io.BufferedReader;
+
+public class InputConsoleDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 BufferedReader bReader=new BufferedReader(in);
+	}
+
+}

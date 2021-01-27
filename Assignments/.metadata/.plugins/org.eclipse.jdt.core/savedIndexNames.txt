@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\pradi\persistent\Core_Java\Assignments\.metadata\.plugins\org.eclipse.jdt.core
-1941969895.index
-539464679.index

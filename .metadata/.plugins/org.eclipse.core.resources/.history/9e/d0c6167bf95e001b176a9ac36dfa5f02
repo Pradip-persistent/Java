@@ -1,0 +1,15 @@
+package com.psl.filedemo;
+
+import java.io.FileInputStream;
+
+public class SequenceInputStream {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FileInputStream fin1= new FileInputStream("data1.txt");
+		FileInputStream fin2=new FileInputStream("data2.txt");
+		
+
+	}
+
+}
